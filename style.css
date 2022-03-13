@@ -1,0 +1,62 @@
+.main-header-upper {
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+}
+ .icon-nav{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+.header-link {
+    font-size: 34px;
+    color: white;
+}
+li {
+    list-style: none;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    padding: 1.24em;
+    
+}
+
+.main-header-nav ul {
+    background-color: white;
+    border: white solid;
+    border-width: 1px;
+    color: black;
+    display: flex;
+    padding: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-primary li {
+    padding: 25px;
+    font-size: 50px;
+    font-weight: bold;
+    
+} 
+
+.content-holder {
+    background-color: black;
+    padding: 25px  ;
+}
+
+.content-image {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
